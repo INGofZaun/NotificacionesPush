@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "380298697633",
+    "project_id": "notificaciones-psuh-ca52e",
+    "storage_bucket": "notificaciones-psuh-ca52e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380298697633:android:edb9f3ba550992f6e0c9e0",
+        "android_client_info": {
+          "package_name": "com.example.firebasepushapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMFPkb8yRjLOD2go1iuZq-hrVZ9_l8sZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
